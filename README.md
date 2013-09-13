@@ -13,7 +13,7 @@ http://www.cisco.com/web/learning/netacad/course_catalog/PacketTracer.html
 <p>Once the install is about 90% complete you will want to stop the installation and run PacketTracerForceInstall.sh to complete the installation</p>
 
 <h2>Bugs</h2>
-<p>You tell me</p>
+<p>You tell me, I enjoy getting feedback so lets work out the bugs together.</p>
 
 <h2>License</h2>
 <p>This is free and unencumbered software released into the public domain.</p>
